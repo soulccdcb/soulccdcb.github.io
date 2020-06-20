@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://soulccdcb.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-06-20T03:51:06.722Z</updated>
+    <title>Bing&apos;s Blog</title>
+    <updated>2020-06-20T04:05:16.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://soulccdcb.github.io"/>
     <link rel="self" href="https://soulccdcb.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://soulccdcb.github.io/images/avatar.png</logo>
     <icon>https://soulccdcb.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Bing&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://soulccdcb.github.io/post/hello-gridea/</id>
